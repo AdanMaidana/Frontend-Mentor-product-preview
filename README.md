@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-UwBARLymNq)
+- Solution URL: [View My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-1kij1XuHD6)
 - Live Site URL: [Visit the Live Site](https://adanmaidana.github.io/Frontend-Mentor-product-preview/)
 
 ## My process
