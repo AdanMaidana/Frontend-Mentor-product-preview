@@ -109,8 +109,8 @@ body {
 @media (width >= 640px) {
   .card {
     display: flex;
-    max-width: 680px;
-    column-gap: .5rem;
+    max-width: 570px;
+    justify-content: space-between;
 
     .card-header {
       width: 50%;
@@ -119,7 +119,6 @@ body {
     .card-body {
       width: 50%;
       justify-content: space-evenly;
-      max-inline-size: 30ch;
     }
   }
 }
